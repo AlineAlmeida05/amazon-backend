@@ -1,9 +1,8 @@
 {
   "name": "amazon-backend",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "index.js",
   "type": "module",
-  "private": true,
   "scripts": {
     "start": "bun index.js"
   },
